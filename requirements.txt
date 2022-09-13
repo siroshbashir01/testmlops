@@ -3,5 +3,4 @@ sklearn
 matplotlib
 seaborn
 numpy
-os
 awswrangler
